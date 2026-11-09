@@ -40,7 +40,7 @@ The test case workbook is organized into separate worksheets for each module, pl
 
 Test cases are available here
 
-[(https://docs.google.com/spreadsheets/d/1iDOHqdyHid-2ZxgO0W15v3zTxWg_PnrSLCoT3SvDHq4/edit?usp=sharing)]
+(https://docs.google.com/spreadsheets/d/1iDOHqdyHid-2ZxgO0W15v3zTxWg_PnrSLCoT3SvDHq4/edit?usp=sharing)
 
 ## Suggested Test Approach
 
