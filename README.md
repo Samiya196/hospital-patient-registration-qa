@@ -36,12 +36,11 @@ The test case workbook is organized into separate worksheets for each module, pl
 - Execution status, actual result, defect ID, and comments fields
 - End-to-end automation scenarios
 
-### Test Case Workbook
+### Test Case Sheet
 
-After uploading the workbook to this repository under `Test-Cases/`, this link will work:
+Test cases are available here
 
 [(https://docs.google.com/spreadsheets/d/1iDOHqdyHid-2ZxgO0W15v3zTxWg_PnrSLCoT3SvDHq4/edit?usp=sharing)]
-If you use a different folder or filename, update the link to match.
 
 ## Suggested Test Approach
 
