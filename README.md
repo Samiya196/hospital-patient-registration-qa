@@ -40,8 +40,7 @@ The test case workbook is organized into separate worksheets for each module, pl
 
 After uploading the workbook to this repository under `Test-Cases/`, this link will work:
 
-[Hospital Patient Registration Test Cases.xlsx](Test-Cases/Hospital_Patient_Registration_Test_Cases.xlsx)
-
+[(https://docs.google.com/spreadsheets/d/1iDOHqdyHid-2ZxgO0W15v3zTxWg_PnrSLCoT3SvDHq4/edit?usp=sharing)]
 If you use a different folder or filename, update the link to match.
 
 ## Suggested Test Approach
